@@ -1,4 +1,4 @@
-# Srinivas P
+# Shreya R
 
 ## 👋 About Me
 Hello! I'm a passionate developer who enjoys learning new technologies, building projects, and improving problem-solving skills.
@@ -31,7 +31,7 @@ VS Code • Git • GitHub • Supabase
 ---
 
 ## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=srinivas2s&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vvce25cse02876-png&show_icons=true)
 
 ---
 
